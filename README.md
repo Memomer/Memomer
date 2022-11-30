@@ -20,15 +20,17 @@ Mayank</a></h1>
 
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
-- Books I am reading atm-> *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic), *Life 3.0 by Max TegMark*(About AI/ML), *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health), *Ashtavakra Gita* (Hindu Philosophy) *Big Book of Small Python Projects* by Al Stewart
+- Books I am reading atm-> *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
+-  *Life 3.0 by Max TegMark*(About AI/ML), 
+-  *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health),
+-   *Ashtavakra Gita* (Hindu Philosophy),
+-   *Big Book of Small Python Projects* by Al Stewart
 
-     <div>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
+ <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/JaggeryDev10">
+<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/JaggeryDev10">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
 
 ### Blogs posts
 
