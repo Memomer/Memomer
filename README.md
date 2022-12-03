@@ -14,7 +14,7 @@ Mayank</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning FULL-STACK DEVELOPMENT, PYTHON PROJECTS and DSA, LINUX <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
+- 🌱 I’m currently learning FULL-STACK DEVELOPMENT, PYTHON PROJECTS, DSA, LINUX <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
 
 *- 📝 (Will regularly write articles soon)*
 
