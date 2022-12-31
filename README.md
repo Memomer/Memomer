@@ -23,7 +23,6 @@ Mayank</a></h1>
 - Books I am reading atm
   - *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
   -  *Life 3.0 by Max TegMark*(About AI/ML), 
-  -  *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health),
   -   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
   -   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
   -   *Epictetus of Enchirodon* (stoicism)
