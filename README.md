@@ -10,21 +10,24 @@ Mayank</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on <a href="https://github.com/Memomer/flight-scraper" target="blank">Flight Scrapper's frontend</a> with <a href="https://github.com/kilianplapp">Killian</a>
+- 🔭 I’m currently working on <a href="https://github.com/Memomer/Website-For-Retired-Army-Officer" target="blank">Army Website</a> with my mentor </a>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning FULL-STACK DEVELOPMENT, PYTHON PROJECTS, DSA, LINUX <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
+- 🌱 I’m currently learning FULL-STACK DEVELOPMENT, PYTHON PROJECTS, DSA, LINUX, OS, COMPUTER NETWORKS <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
 
 *- 📝 (Will regularly write articles soon)*
 
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
-- Books I am reading atm-> *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
+- Books I am reading atm
+- *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
 -  *Life 3.0 by Max TegMark*(About AI/ML), 
 -  *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health),
--   *Ashtavakra Gita* (Hindu Philosophy),
--   *Big Book of Small Python Projects* by Al Stewart
+-   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
+-   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
+-   *Epictetus of Enchirodon* (stoicism)
+-   *Superintelligence* by Nick Bostrom (Ai/Ml)
 
  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -34,11 +37,6 @@ Mayank</a></h1>
 
 ### Blogs posts
 
-**Books I read/heard and loved**
-- Man's search for Meaning by Viktor Frankl
-- Nietzsche and The Nazis By Stephen R.C. Hicks
-- How to be a 3% Man by Corey Wayne
-- NMMNG by Dr. Robert A Glover
-- Models, Subtle Art of not giving a and Everything is Fu*ked by Mark Manson
+
 
  
