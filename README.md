@@ -21,13 +21,13 @@ Mayank</a></h1>
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
 - Books I am reading atm
-- *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
--  *Life 3.0 by Max TegMark*(About AI/ML), 
--  *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health),
--   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
--   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
--   *Epictetus of Enchirodon* (stoicism)
--   *Superintelligence* by Nick Bostrom (Ai/Ml)
+  - *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
+  -  *Life 3.0 by Max TegMark*(About AI/ML), 
+  -  *Peace Programme by Dr.Jared Reser* (10 years of research condensed into a book for posture and mental health),
+  -   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
+  -   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
+  -   *Epictetus of Enchirodon* (stoicism)
+  -   *Superintelligence* by Nick Bostrom (Ai/Ml)
 
  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
