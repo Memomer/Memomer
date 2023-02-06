@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Mayank</a></h1>
-<h3 align="center">Holds interest in web-development and AI/ML &#127470;&#127475</h3>
+<h3 align="center">Holds interest in web-development and AI/ML &#127470</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Memomer&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
