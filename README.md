@@ -21,7 +21,7 @@ Mayank</a></h1>
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
 - Books I am reading atm
-  - *"What is the name of the Book? By Raymond Smullyan"* (book on puzzles and logic),
+  - *What is the name of the Book? By Raymond Smullyan* (book on puzzles and logic),
   -  *Life 3.0 by Max TegMark*(About AI/ML), 
   -   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
   -   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
