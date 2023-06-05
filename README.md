@@ -10,11 +10,11 @@ Mayank</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on Python, learning Django and Flask libraries </a>
+- 🔭 I’m currently working on Nand2Tetris </a>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning FULL-STACK DEVELOPMENT, PYTHON PROJECTS, DSA, LINUX, OS, COMPUTER NETWORKS <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
+- 🌱 I’m currently learning AI/ML, Langchain, Cryptography, Js(react) <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
 
 *- 📝 (Will regularly write articles soon)*
 
@@ -22,11 +22,7 @@ Mayank</a></h1>
 
 - Books I am reading atm
   - *What is the name of the Book? By Raymond Smullyan* (book on puzzles and logic),
-  -  *Life 3.0 by Max TegMark*(About AI/ML), 
-  -   *The Drunkards Walk*  by Leonard Moldinow (A new perspective to probability and statistics)
-  -   *Big Book of Small Python Projects* by Al Stewart (Next 6 months aim-> complete 30 projects with a an original twist)
-  -   *Epictetus of Enchirodon* (stoicism)
-  -   *Superintelligence* by Nick Bostrom (Ai/Ml)
+  -   *Hands on machine learning using t.js and keras* ()
 
  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
