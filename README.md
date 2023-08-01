@@ -21,8 +21,7 @@ Mayank</a></h1>
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
 - Books I am reading atm
-  - *What is the name of the Book? By Raymond Smullyan* (book on puzzles and logic),
-  -   *Hands on machine learning using t.js and keras* (ML)
+  - *How to change our mind By Michael Pollen*,
   -   *Gabor Mates and Peter Levine work asynchronously*
 
  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
