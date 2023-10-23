@@ -7,7 +7,7 @@ Mayank</a></h1>
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/Jaggerydev10?logo=twitter&style=for-the-badge" alt="Jaggerydev10" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/gifs/discoveryeurope-j1tUCRIuHssx4X3msk">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.gif">
 </a>
 
 - 🔭 I’m currently working on Node.js </a>
