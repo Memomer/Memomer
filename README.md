@@ -10,7 +10,7 @@ Mayank</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.gif">
 </a>
 
-- 🔭 I’m currently working on Node.js </a>
+- 🔭 I’m currently working on Finetuned Bots on Tech Slack Chat History </a>
 
 - 🤝 I’m available for freelancing.
 
@@ -30,6 +30,9 @@ Mayank</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 
 ### Blogs posts
+
+
+*Coming Soon*
 
 
 
