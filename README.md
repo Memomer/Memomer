@@ -10,13 +10,11 @@ Mayank</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.gif">
 </a>
 
-- 🔭 I’m currently working on Finetuned Bots on Tech Slack Chat History </a>
+- 🔭 I’m currently working on CuteCut - Video Editing Agent for shortform content </a>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Backend Development  <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
-
-*- 📝 (Will regularly write articles soon)*
+- 🌱 I’m currently learning Agentic Development  <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
 
 - 📫 How to reach me **mayankrm2003@gmail.com**
 
@@ -29,10 +27,6 @@ Mayank</a></h1>
 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/JaggeryDev10">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 
-### Blogs posts
-
-
-*Coming Soon*
 
 
 
