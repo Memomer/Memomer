@@ -7,13 +7,7 @@ Mayank</a></h1>
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/Jaggerydev10?logo=twitter&style=for-the-badge" alt="Jaggerydev10" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.gif">
-</a>
-
-𒉭 I’m currently working on esoteric and ignored but very foundational aspects of CS being Math for computation,
-     Unix systems programming, deeper dive into Computer Networks, Chip design and HDL programming (much more) all to combat against
-       dark forces of systemic inertia that prevents the light of computation to enlighten and save the humanity from the matrix of illusion  𒉭 <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
-
+	
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⡄⣠⢄⣴⣠⣶⣠⣾⣤⣀⣴⣠⢄⣠⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣄⣀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣷⣿⣿⣿⣿⠏⣿⣿⣿⡿⢏⣽⢋⡟⣹⣿⣿⢿⢿⣿⣿⣿⣿⣿⣷⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -38,6 +32,11 @@ Mayank</a></h1>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢏⢛⣶⠖⢊⣉⣀⠽⠦⣽⣷⡀⠀⠀⠀⠀⠀⠀⢀⣿⠋⠀⣠⠴⠚⠉⠀⣀⣠⣴⣾⣿⣿⣿⣷⣷⣶⣿⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣾⡿⠞⠉⠓⠲⣶⣿⣿⣿⢧⠀⠀⠀⠀⠀⠀⢀⡿⠖⠋⠁⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁
 ⠀⠀⠀⠀⠀⠀⢀⡤⢺⣿⣿⣟⣫⣴⣶⣤⣤⣀⣀⣙⣿⣿⣬⣤⣤⠤⣤⠴⠚⢉⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⣀⣠⣴⣾
+</a>
+
+𒉭 I’m currently working on esoteric and ignored but very foundational aspects of CS being Math for computation,
+     Unix systems programming, deeper dive into Computer Networks, Chip design and HDL programming (much more) all to combat against
+       dark forces of systemic inertia that prevents the light of computation to enlighten and save the humanity from the matrix of illusion  𒉭 <a href="https://www.theodinproject.com/dashboard" target="blank"></a>
 
 - contact - **mayankrm2003@gmail.com**
 
