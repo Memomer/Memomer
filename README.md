@@ -1,6 +1,6 @@
 <h1 align="center"> Computation Knight <a href="" target="blank">
 Mayank</a></h1>
-<h3 align="center"> Sword Of Automatons and Self Organizing shields 🗡️</h3>
+<h3 align="center"> Sword Of Automatons and Self Organizing Shield 🗡️</h3>
 
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
