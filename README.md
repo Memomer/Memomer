@@ -5,12 +5,7 @@ Mayank</a></h1>
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
 					
-  𒉭   I’m currently working on esoteric and ignored but very 
-      foundational aspects of CS being Math for computation,
-      Unix systems programming, deeper dive into Computer Networks, 
-      Chip design and HDL programming (much more) all to combat against
-      dark forces of systemic inertia that prevents the light of computation 
-      to enlighten and save the humanity from the matrix of illusion    𒉭
+  𒉭 I’m currently working on emergent behaviour in Agents, Transformers, Swarm Robotics, Artifical Life and Neural Cellular Automata 𒉭
        
  ▬▬ι═══════ﺤ                                             ▬▬ι═══════ﺤ      
 
