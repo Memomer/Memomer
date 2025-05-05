@@ -1,6 +1,6 @@
-<h1 align="center"> The Computation Knight of Vaikuntha <a href="" target="blank">
+<h1 align="center"> Computation Knight <a href="" target="blank">
 Mayank</a></h1>
-<h3 align="center">Armoury consists of Computer Networks, Systems programming and Math 🗡️</h3>
+<h3 align="center"> Sword Of Automatons and Self Organizing shields 🗡️</h3>
 
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
