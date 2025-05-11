@@ -5,7 +5,7 @@
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
 					
-  𒉭 I’m currently working on emergent behaviour in Agents, Transformers, Swarm Robotics, Artifical Life and Neural Cellular Automata 𒉭
+  𒉭 I’m currently working on emergent behaviour and modelling decentralized intelligence via smart automatons 𒉭
        
  ▬▬ι═══════ﺤ                                             ▬▬ι═══════ﺤ      
 
