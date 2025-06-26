@@ -1,11 +1,11 @@
 <h1 align="center"> Mayank <a href="" target="blank">
 </a></h1>
-<h3 align="center"> Sword Of Automatons and Self Organizing Shield 🗡️</h3>
+<h3 align="center"> Sword of binary digits 🗡️</h3>
 
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
 					
-  𒉭 I’m currently working on emergent behaviour and modelling decentralized intelligence via smart automatons 𒉭
+  𒉭 I’m currently working on Neo4js based PDG agentic system and learning the art of living 𒉭
        
  ▬▬ι═══════ﺤ                                             ▬▬ι═══════ﺤ      
 
