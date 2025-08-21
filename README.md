@@ -5,7 +5,7 @@
 
  ▬▬ι═══════ﺤ                                                ▬▬ι═══════ﺤ 
 					
-  𒉭 I’m currently working on Neo4js based PDG agentic system and learning the art of living 𒉭
+  𒉭 𒉭
        
  ▬▬ι═══════ﺤ                                             ▬▬ι═══════ﺤ      
 
